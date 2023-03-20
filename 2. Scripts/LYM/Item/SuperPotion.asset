@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6398def7df332d419e34d58e94ef682, type: 3}
+  m_Name: SuperPotion
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: SuperPotion
+  itemImage: {fileID: 21300000, guid: 8dee2819139d14a4b8324153b0a9a04b, type: 3}
+  itemPrefab: {fileID: 1327298289201239514, guid: fb67c354144fb704b96605cbbafcc06b,
+    type: 3}
+  weaponType: 
+  itemDesc: "\n\uC5ED\uC2DC\n \uB0B4\uAC00 \uB9CC\uB4E0 \uD3EC\uC158\uC774 \n\uCD5C\uACE0\uC57C"

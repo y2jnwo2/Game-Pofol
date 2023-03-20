@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6398def7df332d419e34d58e94ef682, type: 3}
+  m_Name: HpPotion
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: HpPotion
+  itemImage: {fileID: 21300000, guid: 5285ea2c0a703b74596d4fd932cf0609, type: 3}
+  itemPrefab: {fileID: 7481581563621656531, guid: f95c273b5ac4aae429c1f1e0e397adc0,
+    type: 3}
+  weaponType: 
+  itemDesc: "\n\uBCF4\uAE30\uC5D4 \uBCC4\uB85C\uC9C0\uB9CC\n \uAC74\uAC15\uD560\uAC83
+    \uAC19\uB2E4\n"

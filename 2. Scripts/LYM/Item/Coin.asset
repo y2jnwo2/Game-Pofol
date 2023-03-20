@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6398def7df332d419e34d58e94ef682, type: 3}
+  m_Name: Coin
+  m_EditorClassIdentifier: 
+  itemType: 2
+  itemName: Coin
+  itemImage: {fileID: 21300000, guid: d9b470618cca78644b5044d803e53474, type: 3}
+  itemPrefab: {fileID: 365198999782498474, guid: 37981931b4b4e0c48843e1bf02798004,
+    type: 3}
+  weaponType: 
+  itemDesc: "\uBAA8\uD5D8\uAC00\uB4E4\uC758 \uD558\uB8FB\uCE58 \n\uC220\uAC12\uC740
+    \uB420 \uC815\uB3C4\uC774\uB2E4."
